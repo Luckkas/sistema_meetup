@@ -1,0 +1,24 @@
+# Configuração local do banco
+/app/config/banco.php
+
+# Dependências
+/vendor/
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Logs e temporários
+*.log
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Temporarios do adianti
+/tmp/
