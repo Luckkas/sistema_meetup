@@ -1,4 +1,10 @@
 <menu>
+
+    <menuitem label="Amigos">
+        <icon>fa:users fa-fw </icon>
+        <action>AmigosList</action>
+    </menuitem>
+
     <menuitem label='Home'>
         <icon>fa:home fa-fw</icon>
         <menu>
